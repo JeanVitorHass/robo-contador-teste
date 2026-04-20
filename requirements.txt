@@ -1,0 +1,1 @@
+# Este robo de teste usa apenas a biblioteca padrao do Python.
