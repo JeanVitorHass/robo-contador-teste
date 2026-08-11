@@ -1,1 +1,3 @@
-# Este robo de teste usa apenas a biblioteca padrao do Python.
+# O SDK (pantheon.athena.sdk) e usado via PYTHONPATH, nao pip install --
+# suas dependencias entram aqui manualmente.
+requests
